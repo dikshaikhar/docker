@@ -2,5 +2,5 @@ beautifulsoup4
 requests==2.27.1
 #mysql.connector==2.2.9
 regex==2022.3.2
-#boto3==1.21.18
+boto3==1.21.18
 pandas
